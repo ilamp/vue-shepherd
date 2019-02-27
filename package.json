@@ -1,5 +1,5 @@
 {
-  "name": "vue-shepherd",
+  "name": "cynux/vue-shepherd",
   "version": "0.0.0",
   "main": "dist/vue-shepherd.common.js",
   "module": "dist/vue-shepherd.esm.js",
